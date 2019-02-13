@@ -1,3 +1,5 @@
+#keras CNN
+
 import keras
 from keras import backend as k
 from keras.layers import Convolution1D, Flatten, Dense, Dropout,MaxPooling1D, regularizers, Conv2D, MaxPooling2D
